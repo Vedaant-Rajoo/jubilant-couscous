@@ -8,9 +8,12 @@
 
 `npm install`
 
-And then initiale a ganache-server by running
-
-`node_modules\.bin/ganache-cli`
+And then initialize a ganache-server by running
+Ganache is provided by truffle suite for free it helps to setup a free blockchain server with 10 accounts with 100 ETH each.
+This is testnet ETH and only works on localhost only.
+For test_networks Kovan, Ropsten check out infura it provides modules of blockchain on the testnet.
+[Link to Infura](https://infura.io/)
+`node_modules\.bin\ganache-cli`
 
 Then run
 
