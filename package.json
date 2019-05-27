@@ -1,0 +1,18 @@
+{
+  "name": "dappagain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.4.3",
+    "minimist": "^1.2.0",
+    "solc": "^0.4.25",
+    "tar": "^4.4.8",
+    "web3": "^1.0.0-beta.37"
+  }
+}
